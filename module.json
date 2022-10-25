@@ -1,0 +1,24 @@
+{
+  "id": "mac-flow",
+  "title": "Macro Flow!",
+  "description": "Use macros to switch between windows!",
+  "authors": [
+    {
+    "name": "degraff"
+    },
+    {
+      "name": "greglboardman"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "url": "https://github.com/degraffa/foundryvtt-mac-flow",
+  "esmodules": [
+    "scripts/main.js",
+    "scripts/MacroKeyboardManager.js"
+  ],
+  "library": "false"
+}
